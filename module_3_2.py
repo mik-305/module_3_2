@@ -23,5 +23,4 @@ def send_email(message, recipient, *, sender='university.help@gmail.com'):
 
 
 print('---------------------------------------------------------------------------')
-#send_email('Это сообщение для проверки связи!', 'abc@viva.ru', sender='university.help@gmail.com')
 send_email('Это сообщение для проверки связи!', 'abc@viva.ru')
